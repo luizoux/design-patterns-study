@@ -110,7 +110,7 @@ Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?coupon
 Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?couponCode=2021PM25)
 
 # 🦾 Contribuição ou 🐞 Issues
-Se você tem alguma sugestão ou melhoria, sinta-se livre para abrir uma Issue ou entrar em contato comigo! Vou ficar muito feliz em receber seu pull request. 🥰
+Fiz esse repositório apenas com o intuito de compartilhar os meus estudos do dia a dia na programação. Se você tem alguma sugestão ou melhoria, sinta-se livre para abrir uma Issue ou entrar em contato comigo! Vou ficar muito feliz em receber seu pull request. 🥰
 
 # 📃 Licença
 Escrito com 💙 por Luiza Marinho.
