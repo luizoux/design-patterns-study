@@ -4,6 +4,8 @@ Meu projeto de estudos de Padrões de Projeto.
 Este projeto tem como base o curso:
 [Aprenda Padrões de Projetos GoF e Princípios de Programação SOLID em explicações práticas com exemplos reais em C#](https://www.udemy.com/course/curso-design-patterns-csharp/?couponCode=2021PM25)
 
+
+
 ## O que são "Design Patterns"?
 São arquiteturas e padrões já pensadas para certos tipos de problemas. Cada padrão de código para um problema específico.
 
@@ -106,3 +108,11 @@ Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?coupon
 
 ![Untitled](design-patterns-study/doc/image4.png)
 Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?couponCode=2021PM25)
+
+# 🦾 Contribuição ou 🐞 Issues
+Se você tem alguma sugestão ou melhoria, sinta-se livre para abrir uma Issue ou entrar em contato comigo! Vou ficar muito feliz em receber seu pull request. 🥰
+
+# 📃 Licença
+Escrito com 💙 por Luiza Marinho.
+
+Este tutorial está sob licença MIT License.
