@@ -70,7 +70,6 @@
     <Compile Include="Vehicles\Impl\Car.cs" />
     <Compile Include="Vehicles\IVehicle.cs" />
     <Compile Include="Program.cs" />
-    <None Include="App.config" />
     <Compile Include="Vehicles\Motorcycle.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -87,9 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
