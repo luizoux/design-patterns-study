@@ -2,9 +2,7 @@
 
 interface IVehicle
 {
-
     void StartRoute();
 
     void GetCargo();
-
 }
