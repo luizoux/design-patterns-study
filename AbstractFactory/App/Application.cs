@@ -1,25 +1,25 @@
-﻿using AbstractFactory.Factories;
+﻿using AbstractFactory.Aircrafts;
+using AbstractFactory.Factories;
 using AbstractFactory.LandVehicles;
 
-namespace AbstractFactory.App
+namespace AbstractFactory.App;
+
+class Application
 {
-    class Application
+    private IAircraft aircraft;
+    private ILandVehicle vehicle;
+
+    public Application(ITransportFactory factory)
     {
-        private IAircraft aircraft;
-        private ILandVehicle vehicle;
 
-        public Application(ITransportFactory factory)
-        {
+        vehicle = factory.CreateTransportVehicle();
+        aircraft = factory.CreateTransportAircraft();
 
-            vehicle = factory.CreateTransportVehicle();
-            aircraft = factory.CreateTransportAircraft();
+    }
 
-        }
-
-        public void StartRoute()
-        {
-            vehicle.StartRoute();
-            aircraft.StartRoute();
-        }
+    public void StartRoute()
+    {
+        vehicle.StartRoute();
+        aircraft.StartRoute();
     }
 }

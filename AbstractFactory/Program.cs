@@ -28,14 +28,16 @@ class Program
         app = new Application(transportFactory);
 
         return app;
-    }
 
+    }
     static void Main(string[] args)
     {
+
         Application app = ConfigureApplication();
 
         app.StartRoute();
 
         Console.ReadLine();
+
     }
 }
