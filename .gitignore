@@ -11,3 +11,5 @@ AbstractFactory/bin
 Builder/bin
 Builder/obj/Debug/net8.0-windows8.0
 Builder/obj
+Adapter/bin
+Adapter/obj
