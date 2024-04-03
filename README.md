@@ -69,46 +69,6 @@ Características de um padrão:
 
 Segundo Christofer, um padrão descreve um problema que ocorre inumeras vezes em determinado contexto e nesse padrão descreve a solução desse problema.
 
-### Padrão GoF
-
-A gangue dos 4, ou, Gof. No livro, eles documentaram 23 padrões de projetos. Muitos dos frameworks atuais são influenciados por esses padrões, como por exemplo o próprio Java e C#.
-
-## Porque utilizar Design Pattern
-
-- Não reinventar a roda. Aprender a reconhecer um padrão, pois ele já foi pensado para o problema;
-- Melhora a comunicação, pois possuem nome e situações em que resolvem problemas específicos;
-
-## Tipos de Padrões
-
-### Padrão Criacional
-
-Trabalham com a criação de objetos flexiveis e reutilizaveis;
-
-### Padrão Estrutural
-
-Definem como trabalhar com objetos e classes em estruturas maiores e complexas, e ainda assim flexiveis e eficientes.
-
-### Padrão Comportamental
-
-Trabalham com a comunicação eficiente e designam as responsabilidades comuns aos objetos.
-
-## Problemas a evitar
-
-- Não forçar o uso de um padrão quando ele não deve ser utilizado; Cada padrão tem o seu objetivo e o problema a resolver;
-- Preferir um padrão sobre outro. Os padrões são diferentes em contextos, então não se deve preferir e utilizar em um cenário errado;
-
-## Factory Method
-
-Método Criacional. 
-
-Solução: 
-
-![Untitled](design-patterns-study/doc/image3.png)
-Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?couponCode=2021PM25)
-
-![Untitled](design-patterns-study/doc/image4.png)
-Fonte: [Curso](https://www.udemy.com/course/curso-design-patterns-csharp/?couponCode=2021PM25)
-
 # 🦾 Contribuição ou 🐞 Issues
 Fiz esse repositório apenas com o intuito de compartilhar os meus estudos do dia a dia na programação. Se você tem alguma sugestão ou melhoria, sinta-se livre para abrir uma Issue ou entrar em contato comigo! Vou ficar muito feliz em receber seu pull request. 🥰
 
